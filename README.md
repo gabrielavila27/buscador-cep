@@ -14,8 +14,8 @@
 * <a href="src/ReadmeSrc/bucador_cep_demo.mp4" download>Download here a demo video of the App</a>
 
 ## Tecnologias (Technologies)💻
-* React Native (JSX, StyleSheet, JavaScript, Axios)
-
+* React Native (expo-cli)
+* Axios
 ## Contato (Contact me)🔗
 * Email: gabriel.avilaa27@gmail.com
 * LinkedIn: https://www.linkedin.com/in/gabriel-avila-10a077218/
